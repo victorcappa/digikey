@@ -14,6 +14,22 @@ Training Environment – Simulated warehouse and test benches replicating DigiKe
 <h3>Challenges</h3> <p> One of the main challenges of the DigiKey training environment was balancing technical accuracy with performance. The system needed to display multiple interactive 3D models while maintaining fast load times and responsive user interaction.
 I worked on integrating CMS-driven data with the 3D space, ensuring smooth communication between the virtual environment and DigiKey’s product pages. Another challenge was creating intuitive interaction flows that would allow users to transition from immersive 3D experiences to technical product information seamlessly.
 </p>
+
+<section id="tech-stack">
+  <h2>Tech Stack</h2>
+  <ul>
+    <li><strong>React</strong> – application framework, UI logic, state management (zustand)</li>
+    <li><strong>React Three Fiber (R3F)</strong> – declarative layer over three.js for 3D scenes</li>
+    <li><strong>three.js</strong> – rendering, materials, lighting, model loaders</li>
+    <li><strong>tween.js</strong> – smooth camera moves, hotspot reveals, UI–3D transitions</li>
+    <li><strong>Custom CMS Integration</strong> – authoring schema so DigiKey staff could add/update products, hotspots, and text, automatically syncing with the 3D environment</li>
+    <li><strong>Git/GitHub</strong> – feature branches, PR reviews, release tags</li>
+    <li><strong>Build Tools</strong> – Vite bundler, DRACO mesh compression</li>
+    <li><strong>Deployment</strong> – hosted on <strong>Azure</strong> for scalability and cross-platform browser support</li>
+  </ul>
+</section>
+
+
 Screenshots
 <img width="1384" height="716" alt="Captura de Tela 2025-09-29 às 01 20 28" src="https://github.com/user-attachments/assets/a834624d-9273-48ce-8980-337c5c46f1d8" />
 
