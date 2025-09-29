@@ -1,7 +1,7 @@
 DigiKey 3D Training Environment
 <div id="top"></div>
 
-<h2>Client</h2> <p>Contract: Subvrsive</p> <p><b>for DigiKey</b></p> <!-- PROJECT LOGO --> <br /> <div align="center"> <a href="https://github.com/victorcappa/"> <img src="https://seeklogo.com/images/D/digikey-logo-58F003BEE7-seeklogo.com.png" alt="Logo" width="140"> </a> <h3 align="center">DigiKey 3D Training Environment</h3> <p align="center"> Immersive 3D web-based training environment with product interactions, CMS integration, and seamless connection with DigiKey’s 2D website. </p> </div> <!-- ABOUT THE PROJECT -->
+<h2>Client</h2> <p>Contract: Subvrsive</p> <p><b>for DigiKey</b></p> <!-- PROJECT LOGO --> <br /> <div align="center"> <a href="https://github.com/victorcappa/"> <img src="logo.png" alt="Logo" width="140"> </a> <h3 align="center">DigiKey 3D Training Environment</h3> <p align="center"> Immersive 3D web-based training environment with product interactions, CMS integration, and seamless connection with DigiKey’s 2D website. </p> </div> <!-- ABOUT THE PROJECT -->
 About The Project
 <p align="left"> This project was created for <b>DigiKey</b>, one of the world’s leading electronic components distributors. The goal was to design an interactive 3D training environment that blends product visualization, warehouse simulation, and a learning journey through DigiKey’s ecosystem.
 The experience allows users to navigate through a virtual DigiKey facility, interact with products in 3D, access technical details via CMS, and link directly to DigiKey’s website for datasheets and purchasing.
