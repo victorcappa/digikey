@@ -19,7 +19,7 @@ I worked on integrating CMS-driven data with the 3D space, ensuring smooth commu
   <h2>Tech Stack</h2>
   <ul>
     <li><strong>React</strong> – application framework, UI logic, state management (zustand)</li>
-    <li><strong>React react-babylonjs </strong> – declarative layer over babylon for 3D scenes</li>
+    <li><strong>react-babylonjs </strong> – declarative layer over babylon for 3D scenes</li>
     <li><strong>babylon.js</strong> – rendering, materials, lighting, model loaders</li>
     <li><strong>tween.js</strong> – smooth camera moves, hotspot reveals, UI–3D transitions</li>
     <li><strong>Custom CMS Integration</strong> – authoring schema so DigiKey staff could add/update products, hotspots, and text, automatically syncing with the 3D environment</li>
